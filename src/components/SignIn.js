@@ -13,7 +13,7 @@ const SignIn = () => {
     password: "",
   });
   // console.log(inpval);
-  const [data,setData]=useState([])
+  const [data]=useState([])
 
   const getdata = (e) => {
     const { value, name } = e.target;

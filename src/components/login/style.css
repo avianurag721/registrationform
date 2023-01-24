@@ -159,6 +159,9 @@ h2 {
   .main {
     width: 90%;
   }
+  .homeb{
+    margin-top: 5rem;
+  }
 }
 @media (max-width: 760px) and (min-width: 480px) {
   .registerpage {
